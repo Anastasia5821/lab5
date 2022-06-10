@@ -1,3 +1,3 @@
 ﻿  ConsoleApplication11.cpp
-c:\users\анастасия\source\repos\consoleapplication11\consoleapplication11\consoleapplication11.cpp(26): warning C4101: names: неиспользованная локальная переменная
-  ConsoleApplication11.vcxproj -> C:\Users\Анастасия\source\repos\ConsoleApplication11\Debug\ConsoleApplication11.exe
+c:\users\анастасия\documents\github\lab5\consoleapplication11\consoleapplication11\consoleapplication11.cpp(26): warning C4101: names: неиспользованная локальная переменная
+  ConsoleApplication11.vcxproj -> C:\Users\Анастасия\Documents\GitHub\lab5\ConsoleApplication11\Debug\ConsoleApplication11.exe
